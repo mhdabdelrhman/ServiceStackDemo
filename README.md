@@ -1,2 +1,2 @@
-# ServiceStackDemo
-Using service stack to build APIs
+# Service Stack Demo
+Using [service stack](https://servicestack.net/) to build APIs
